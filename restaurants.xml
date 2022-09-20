@@ -1,0 +1,12 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE restaurants SYSTEM "restaurants.dtd">
+
+<restaurants>
+    <restaurant id = "0">
+        <name></name>
+        <cuisine></cuisine>
+        <city></city>
+        <open></open>
+        <close></close>
+    </restaurant>
+</restaurants>
