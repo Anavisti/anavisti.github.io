@@ -1,22 +1,39 @@
 {
-	"movies": [
+	"Books": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Title": "The Data Detective: Ten Easy Rules to Make Sense of Statistics",
+			"Author": "Tim Harford",
+			"Year Read": "2022"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Title": "Alas, Babylon",
+			"Director": "Pat Frank",
+			"Year Read": "2022"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Title": "My Beloved World",
+			"Director": "Sonia Sotomayor",
+			"Year Read": "2022",
+		}		
+		{
+			"Title": "The Midnight Library",
+			"Director": "Matt Haig",
+			"Year Read": "2022",
+		}
+		{
+			"Title": "The Little Book of Lykke: The Danish Search for the World's Happiest People",
+			"Director": "Meik Wiking",
+			"Year Read": "2022",
+		}
+		{
+			"Title": "10% Happier",
+			"Director": "Dan Harris",
+			"Year Read": "2022",
+		}
+		{
+			"Title": "Mapping the Heavens: The Radical Scientific Ideas That Reveal the Cosmos",
+			"Director": "Priyamvada Natarajan",
+			"Year Read": "2022",
 		}
 	]
 }
